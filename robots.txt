@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://nesheejai.daveandaliwedding.website/sitemap.xml
